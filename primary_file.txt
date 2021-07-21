@@ -1,3 +1,5 @@
 This is the first file after change.
 
 This is in feature A branch.
+
+Similar1
