@@ -5,3 +5,4 @@ This is in feature A branch.
 Similar1
 
 Master Conflict
+
